@@ -79,6 +79,6 @@
   - See details here: [SimpleCov](https://github.com/simplecov-ruby/simplecov)
 
 ### Authors
-   -[Lisa Taylor](https://github.com/lisataylor5472)<br>
-   -[Blake Dempsey](https://github.com/bdempsey864)<br>
-   -[Sam Smith](https://github.com/samlsmith424)
+   - [Lisa Taylor](https://github.com/lisataylor5472)<br>
+   - [Blake Dempsey](https://github.com/bdempsey864)<br>
+   - [Sam Smith](https://github.com/samlsmith424)
